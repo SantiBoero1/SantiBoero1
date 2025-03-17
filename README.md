@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕵️‍♂️ I´m currently working as Cybersoc Engineer Jr<br><br>📚 I´m studying information systems engineering at the National Technological University<br><br>🤓 I have knowledge in the languages ​​C, C++, Javascript, python, SQL, Java and others
+🕵️‍♂️ I´m currently working as Cybersoc Analyst Tier II<br><br>📚 I´m studying information systems engineering at the National Technological University<br><br>🤓 I have knowledge in the languages ​​C, C++, Javascript, python, SQL, Java and others
 
 
 ## 🌐 Socials:
